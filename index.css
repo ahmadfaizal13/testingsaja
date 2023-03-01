@@ -1,0 +1,537 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.dashboard-child,
+.group-child {
+    position: absolute;
+    top: 134px;
+    left: 0;
+    width: 428px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.group-child {
+    top: 0;
+    border-radius: var(--br-sm);
+    width: 402px;
+    height: 159px;
+}
+
+.top-3-berita {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.top-3-berita-container {
+    position: absolute;
+    top: 83px;
+    left: 12px;
+    font-weight: 500;
+}
+
+.rectangle-parent {
+    position: absolute;
+    top: 580px;
+    left: 15px;
+    width: 402px;
+    height: 167px;
+    color: var(--color-white);
+}
+
+.admin-05-februari {
+    position: absolute;
+    top: 821px;
+    left: 137px;
+    font-size: var(--font-size-2xl);
+    font-weight: 300;
+    color: var(--color-gainsboro);
+}
+
+.our-paket,
+.show-all {
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+
+.show-all {
+    top: 0;
+    left: 344px;
+    color: var(--color-gainsboro);
+}
+
+.our-paket-parent {
+    position: absolute;
+    top: 303px;
+    left: 15px;
+    width: 402px;
+    height: 26px;
+}
+
+.show-all1 {
+    position: absolute;
+    top: 2px;
+    left: 345px;
+}
+
+.our-news,
+.show-all-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: var(--color-black);
+}
+
+.show-all-parent {
+    top: 545px;
+    left: 14px;
+    width: 403px;
+    height: 23px;
+    color: var(--color-gainsboro);
+}
+
+.group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #f5f5f5;
+    width: 346px;
+    height: 38px;
+}
+
+.cari-paket {
+    position: absolute;
+    top: 9px;
+    left: 25px;
+    font-weight: 500;
+}
+
+.vector-icon {
+    position: absolute;
+    height: 47.37%;
+    width: 5.2%;
+    top: 28.95%;
+    right: 5.78%;
+    bottom: 23.68%;
+    left: 89.02%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rectangle-group {
+    position: absolute;
+    top: 76px;
+    left: 41px;
+    width: 346px;
+    height: 38px;
+    font-size: var(--font-size-2xl);
+    color: var(--color-gainsboro);
+}
+
+.group-inner,
+.rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.group-inner {
+    border-radius: var(--br-md);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    width: 158px;
+    height: 193px;
+}
+
+.rectangle-div {
+    border-radius: var(--br-sm);
+    background-color: var(--color-turquoise);
+    width: 84px;
+    height: 19px;
+}
+
+.pilih-paket {
+    position: absolute;
+    top: 2px;
+    left: 17px;
+}
+
+.group-child1,
+.group-div {
+    position: absolute;
+    height: 19px;
+}
+
+.group-div {
+    top: 165px;
+    left: 13px;
+    width: 84px;
+    color: var(--color-white);
+}
+
+.group-child1 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-turquoise);
+    box-sizing: border-box;
+    width: 43px;
+}
+
+.view {
+    position: absolute;
+    top: 2px;
+    left: 10px;
+}
+
+.rectangle-parent1 {
+    position: absolute;
+    top: 165px;
+    left: 101px;
+    width: 43px;
+    height: 19px;
+    color: var(--color-turquoise);
+}
+
+.group-child2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-turquoise);
+    box-sizing: border-box;
+    width: 39px;
+    height: 19px;
+}
+
+.new {
+    position: absolute;
+    top: 2px;
+    left: 9px;
+}
+
+.rectangle-parent2 {
+    position: absolute;
+    top: 11px;
+    left: 107px;
+    width: 39px;
+    height: 19px;
+    color: var(--color-turquoise);
+}
+
+.city-tour {
+    position: absolute;
+    top: 11px;
+    left: 13px;
+    font-size: var(--font-size-xl);
+    font-weight: 500;
+}
+
+.rectangle-icon {
+    position: absolute;
+    top: 38px;
+    left: 13px;
+    border-radius: var(--br-sm);
+    width: 133px;
+    height: 79px;
+    object-fit: cover;
+}
+
+.group-icon,
+.rating {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.group-icon {
+    height: 73.33%;
+    width: 49.23%;
+    top: 6.67%;
+    right: 0;
+    bottom: 20%;
+    left: 50.77%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rating-parent {
+    position: absolute;
+    top: 123px;
+    left: 16px;
+    width: 130px;
+    height: 15px;
+}
+
+.jl-sultan-agung,
+.rbjam {
+    position: absolute;
+    top: 1px;
+    left: 91px;
+    font-weight: 300;
+}
+
+.jl-sultan-agung {
+    top: 0;
+    left: 14px;
+}
+
+.vector-icon1 {
+    position: absolute;
+    height: 107.69%;
+    width: 7.81%;
+    top: -3.85%;
+    right: 92.58%;
+    bottom: -3.85%;
+    left: -0.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rbjam-parent {
+    position: absolute;
+    top: 142px;
+    left: 16px;
+    width: 128px;
+    height: 13px;
+    font-size: var(--font-size-base);
+}
+
+.rectangle-container,
+.rectangle-parent3 {
+    position: absolute;
+    top: 338px;
+    left: 15px;
+    width: 158px;
+    height: 193px;
+    font-size: var(--font-size-lg);
+}
+
+.rectangle-parent3 {
+    left: 186px;
+}
+
+.group-child14 {
+    position: absolute;
+    height: 73.33%;
+    width: 49.23%;
+    top: 3080%;
+    right: -287.69%;
+    bottom: -3053.33%;
+    left: 338.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.rectangle-parent7 {
+    position: absolute;
+    top: 338px;
+    left: 358px;
+    width: 158px;
+    height: 193px;
+    font-size: var(--font-size-lg);
+}
+
+.app {
+    color: var(--color-black);
+}
+
+.bookingapp {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+}
+
+.vector-icon4 {
+    position: absolute;
+    height: 78.18%;
+    width: 5.6%;
+    top: 21.82%;
+    right: 0;
+    bottom: 0;
+    left: 94.4%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.bookingapp-parent {
+    position: absolute;
+    top: 19px;
+    left: 42px;
+    width: 357px;
+    height: 27.5px;
+    font-size: var(--font-size-4xl);
+    color: var(--color-turquoise);
+}
+
+.the-blues-habis {
+    margin: 0;
+}
+
+.berita-chelsea-hari-container,
+.group-child15 {
+    position: absolute;
+    top: 3px;
+    left: 123px;
+}
+
+.group-child15 {
+    top: 0;
+    left: 0;
+    border-radius: var(--br-sm);
+    width: 111px;
+    height: 91px;
+    object-fit: cover;
+}
+
+.berita-chelsea-hari-ini-kamis-parent {
+    position: absolute;
+    top: 750px;
+    left: 15px;
+    width: 391px;
+    height: 91px;
+    font-size: var(--font-size-2xl);
+}
+
+.group-child16 {
+    position: absolute;
+    top: 29px;
+    left: 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    width: 430px;
+    height: 81px;
+}
+
+.ellipse-icon {
+    position: absolute;
+    top: 0;
+    left: 161px;
+    width: 101px;
+    height: 101px;
+}
+
+.group-icon1 {
+    height: 42.73%;
+    width: 10.93%;
+    top: 23.64%;
+    right: 45.35%;
+    bottom: 33.64%;
+    left: 43.72%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.group-icon1,
+.home,
+.scan {
+    position: absolute;
+}
+
+.scan {
+    top: 74px;
+    left: 192px;
+    font-weight: 600;
+    color: var(--color-white);
+}
+
+.home {
+    top: 80px;
+    left: 14px;
+    color: var(--color-turquoise);
+}
+
+.bike,
+.history,
+.paket {
+    position: absolute;
+    top: 80px;
+    left: 93px;
+}
+
+.history,
+.paket {
+    left: 287px;
+}
+
+.history {
+    left: 360px;
+}
+
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+    position: absolute;
+    height: 21.82%;
+    width: 4.42%;
+    top: 46.36%;
+    right: 8.14%;
+    bottom: 31.82%;
+    left: 87.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+    width: 5.81%;
+    right: 25.35%;
+    left: 68.84%;
+}
+
+.vector-icon7,
+.vector-icon8 {
+    width: 8.37%;
+    right: 70.7%;
+    left: 20.93%;
+}
+
+.vector-icon8 {
+    width: 5.12%;
+    top: 45.45%;
+    right: 88.84%;
+    bottom: 32.73%;
+    left: 6.05%;
+}
+
+.rectangle-parent11 {
+    position: absolute;
+    top: 822px;
+    left: 0;
+    width: 430px;
+    height: 110px;
+    font-size: var(--font-size-4xl);
+}
+
+.dashboard {
+    position: relative;
+    border-radius: var(--br-sm);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-gainsboro);
+    box-sizing: border-box;
+    width: 100%;
+    height: 932px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-3xl);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+}
